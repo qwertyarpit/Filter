@@ -47,5 +47,5 @@ This is a dashboard for filtering and visualizing CSV datasets.
 
 ## Customization
 
-- To use your own datasets, add CSV files to `public/data/` or update the file upload logic in the dashboard.
+- To use your own datasets, add CSV files to `public/data/`
 
